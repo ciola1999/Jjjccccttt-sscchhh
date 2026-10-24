@@ -12,9 +12,9 @@
     "semantic_hash": ""
   },
   "package.json": {
-    "mtime": 1791962946.720253,
-    "seen": 1792755955.039472,
-    "ast_hash": "b62f3d565fa34ce9cea8fc38de40b3d1",
+    "mtime": 1792811502.816211,
+    "seen": 1792811721.4941976,
+    "ast_hash": "b9baa4a5a90a95c4e23540e4febc7152",
     "semantic_hash": ""
   },
   "playwright.config.ts": {
@@ -108,15 +108,15 @@
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/accounting.rs": {
-    "mtime": 1791984352.954263,
-    "seen": 1792755955.0394933,
-    "ast_hash": "1339ff8794d9bc7e3ecb59a614b88f61",
+    "mtime": 1792811339.9036431,
+    "seen": 1792811721.4942422,
+    "ast_hash": "d2711b0e36537ccd0d0591e70a88127a",
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/administration.rs": {
-    "mtime": 1792734570.8027227,
-    "seen": 1792755955.0394948,
-    "ast_hash": "0185ad36402dfffce39ade1450ad745f",
+    "mtime": 1792763270.9920063,
+    "seen": 1792811721.4942446,
+    "ast_hash": "dd0d4949b76cacd3b3b1b540910654d0",
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/attendance_dashboard.rs": {
@@ -138,9 +138,9 @@
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/billing.rs": {
-    "mtime": 1791999436.1790304,
-    "seen": 1792755955.0395007,
-    "ast_hash": "103a154c5b35b5d753c4b84f20d60ea8",
+    "mtime": 1792811594.1902697,
+    "seen": 1792811721.4942532,
+    "ast_hash": "d3b8826288852bb90838b61d269da4f6",
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/class_attendance.rs": {
@@ -198,9 +198,9 @@
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/loan.rs": {
-    "mtime": 1791828262.0079546,
-    "seen": 1792755955.039512,
-    "ast_hash": "5244e9c5ba08475e4a9cc9a80cf13c62",
+    "mtime": 1792811594.1927645,
+    "seen": 1792811721.494273,
+    "ast_hash": "66d5b06c474d6cfd503b9b5412ac227a",
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/mod.rs": {
@@ -324,9 +324,9 @@
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/turso.rs": {
-    "mtime": 1792752029.4473584,
-    "seen": 1792755955.0395355,
-    "ast_hash": "7136c99b70f866f28e8061a02ff7a84d",
+    "mtime": 1792763042.7308495,
+    "seen": 1792811721.4943123,
+    "ast_hash": "81b1128158ca81832658b6e904114733",
     "semantic_hash": ""
   },
   "src-tauri/src/desktop/tutup_buku.rs": {
@@ -948,9 +948,9 @@
     "semantic_hash": ""
   },
   "src/app/api/backups/route.ts": {
-    "mtime": 1790412715.3833573,
-    "seen": 1792755955.0396564,
-    "ast_hash": "1e93d74676c239144f3df257e42e3d1e",
+    "mtime": 1792762293.2949586,
+    "seen": 1792811721.4945102,
+    "ast_hash": "d4e50cff2beea959b1486c86cf155766",
     "semantic_hash": ""
   },
   "src/app/api/billing/account/route.ts": {
@@ -1098,9 +1098,9 @@
     "semantic_hash": ""
   },
   "src/app/api/billing/students/route.ts": {
-    "mtime": 1791838269.206838,
-    "seen": 1792755955.0396826,
-    "ast_hash": "e31766fc127344981ede67c74df15aa5",
+    "mtime": 1792811010.4113405,
+    "seen": 1792811721.494556,
+    "ast_hash": "8e51ba88788ab0d83419595389b0144e",
     "semantic_hash": ""
   },
   "src/app/api/content/articles/delete/route.ts": {
@@ -1158,9 +1158,9 @@
     "semantic_hash": ""
   },
   "src/app/api/corrections/route.ts": {
-    "mtime": 1790412715.3833573,
-    "seen": 1792755955.0396924,
-    "ast_hash": "04dafafd9801532114fdcb6fcb0857f0",
+    "mtime": 1792762226.2314086,
+    "seen": 1792811721.4945743,
+    "ast_hash": "2cfd48b7d9fc3cdd627543f2b5886a12",
     "semantic_hash": ""
   },
   "src/app/api/dashboard/query/route.ts": {
@@ -1944,9 +1944,9 @@
     "semantic_hash": ""
   },
   "src/app/operational/page.tsx": {
-    "mtime": 1792381342.1231968,
-    "seen": 1792755955.0398166,
-    "ast_hash": "19005f706e9a958a478b488a1c15bb4e",
+    "mtime": 1792770495.5727923,
+    "seen": 1792811721.4948142,
+    "ast_hash": "511ddc12c32d76bfd3717df4ee26c2fd",
     "semantic_hash": ""
   },
   "src/app/operators/page.tsx": {
@@ -2028,9 +2028,9 @@
     "semantic_hash": ""
   },
   "src/app/presensi-kelas/page.tsx": {
-    "mtime": 1792753155.060675,
-    "seen": 1792755955.03983,
-    "ast_hash": "46f57f6d824f5e604ddf1c6b18201ae8",
+    "mtime": 1792809030.8984776,
+    "seen": 1792811721.494841,
+    "ast_hash": "3384096ca92ede75934113935322a652",
     "semantic_hash": ""
   },
   "src/app/riwayat-identitas-karyawan/page.tsx": {
@@ -3984,9 +3984,9 @@
     "semantic_hash": ""
   },
   "src/lib/server/operational/face-template.ts": {
-    "mtime": 1791735582.6483252,
-    "seen": 1792755955.0401495,
-    "ast_hash": "f279992fb75943d5d8bc92cba2100548",
+    "mtime": 1792770572.9703853,
+    "seen": 1792811721.4954548,
+    "ast_hash": "f02bcc51d14bb653c929d96bdd304b83",
     "semantic_hash": ""
   },
   "src/lib/server/operational/schema-consistency.test.ts": {
@@ -4026,15 +4026,15 @@
     "semantic_hash": ""
   },
   "src/lib/services/accounting.test.ts": {
-    "mtime": 1791965192.7739677,
-    "seen": 1792755955.0401564,
-    "ast_hash": "70afb08aee718ebf2c431058d2eda6ae",
+    "mtime": 1792811339.907642,
+    "seen": 1792811721.4954672,
+    "ast_hash": "282d4880a7a1df148184b1f1da084419",
     "semantic_hash": ""
   },
   "src/lib/services/accounting.ts": {
-    "mtime": 1791984704.5791779,
-    "seen": 1792755955.040157,
-    "ast_hash": "adfb492fc1f93e9ced8c5ba1c3a03bd2",
+    "mtime": 1792811339.9056385,
+    "seen": 1792811721.4954689,
+    "ast_hash": "920127b9fff4190911d26b7eee071f3d",
     "semantic_hash": ""
   },
   "src/lib/services/alfa-audit.test.ts": {
@@ -4104,9 +4104,9 @@
     "semantic_hash": ""
   },
   "src/lib/services/backup.ts": {
-    "mtime": 1792380947.2102675,
-    "seen": 1792755955.0401833,
-    "ast_hash": "5cef49a482f78d2a37623f0e3b6ba792",
+    "mtime": 1792762286.389621,
+    "seen": 1792811721.4954917,
+    "ast_hash": "e7740af2116c4559ed4fe7a19916e45f",
     "semantic_hash": ""
   },
   "src/lib/services/berkas-sekolah.ts": {
@@ -4128,15 +4128,15 @@
     "semantic_hash": ""
   },
   "src/lib/services/billing.test.ts": {
-    "mtime": 1791980333.3903482,
-    "seen": 1792755955.0401871,
-    "ast_hash": "ffa7a986362b97c644e00c1ed7f262a5",
+    "mtime": 1792811339.899443,
+    "seen": 1792811721.495499,
+    "ast_hash": "5a7d7bbeb470750beea85e064b5b2add",
     "semantic_hash": ""
   },
   "src/lib/services/billing.ts": {
-    "mtime": 1791999593.6734335,
-    "seen": 1792755955.040188,
-    "ast_hash": "d4df16f1d8b9c03adfb33301be6aeeca",
+    "mtime": 1792811339.8974357,
+    "seen": 1792811721.4955008,
+    "ast_hash": "4761f3674f8e6930185e33ef398653f0",
     "semantic_hash": ""
   },
   "src/lib/services/class-attendance.ts": {
@@ -4176,9 +4176,9 @@
     "semantic_hash": ""
   },
   "src/lib/services/correction.ts": {
-    "mtime": 1792380947.1444068,
-    "seen": 1792755955.0401945,
-    "ast_hash": "045be93c9a58138a0c2f8329ea07f193",
+    "mtime": 1792762667.0551443,
+    "seen": 1792811721.4955134,
+    "ast_hash": "8ea6b9911148deeb302643ea6fb0f5b7",
     "semantic_hash": ""
   },
   "src/lib/services/counseling.ts": {
@@ -4218,9 +4218,9 @@
     "semantic_hash": ""
   },
   "src/lib/services/history-mutation.ts": {
-    "mtime": 1790412715.4929843,
-    "seen": 1792755955.0402012,
-    "ast_hash": "cc10d82fda47257e2edc0837293e4d61",
+    "mtime": 1792762394.3082244,
+    "seen": 1792811721.4955258,
+    "ast_hash": "aa8e7b005be4453426d8aee2b2a4ce62",
     "semantic_hash": ""
   },
   "src/lib/services/holiday-whitelist.ts": {
@@ -4272,15 +4272,15 @@
     "semantic_hash": ""
   },
   "src/lib/services/loan.test.ts": {
-    "mtime": 1791828263.6498985,
-    "seen": 1792755955.0402093,
-    "ast_hash": "fd9888f1b723208d5001d020fab241e5",
+    "mtime": 1792811146.5096378,
+    "seen": 1792811721.495542,
+    "ast_hash": "39f012786081046cf8515dff27ae85ab",
     "semantic_hash": ""
   },
   "src/lib/services/loan.ts": {
-    "mtime": 1791828263.7415981,
-    "seen": 1792755955.0402102,
-    "ast_hash": "c897ef6dde4cc951464381b3af00e63c",
+    "mtime": 1792811561.179683,
+    "seen": 1792811721.4955437,
+    "ast_hash": "25da3238c9225ebfeac1978c07be5458",
     "semantic_hash": ""
   },
   "src/lib/services/nilai-akhir.test.ts": {
@@ -4296,15 +4296,15 @@
     "semantic_hash": ""
   },
   "src/lib/services/offline-import.ts": {
-    "mtime": 1792380947.2656958,
-    "seen": 1792755955.040213,
-    "ast_hash": "5b990ba268ef7d47366af063c9934da5",
+    "mtime": 1792762667.0551443,
+    "seen": 1792811721.495549,
+    "ast_hash": "f851039d7b8b1e31a3c4eb62cf4443c2",
     "semantic_hash": ""
   },
   "src/lib/services/operational-workflow.test.ts": {
-    "mtime": 1790412715.4929843,
-    "seen": 1792755955.040214,
-    "ast_hash": "9e9f76b35c82f0ea6e886a4e62435688",
+    "mtime": 1792769954.088174,
+    "seen": 1792811721.4955506,
+    "ast_hash": "553794743b8c004de0f7044c191e540b",
     "semantic_hash": ""
   },
   "src/lib/services/payroll-calculator.test.ts": {
@@ -4356,15 +4356,15 @@
     "semantic_hash": ""
   },
   "src/lib/services/report.test.ts": {
-    "mtime": 1792734845.7786593,
-    "seen": 1792755955.0402226,
-    "ast_hash": "c3f3d1d81613a318a32733bf7d373553",
+    "mtime": 1792756439.8415997,
+    "seen": 1792811721.495567,
+    "ast_hash": "bc484797ed77d1d085cbea344a369a74",
     "semantic_hash": ""
   },
   "src/lib/services/report.ts": {
-    "mtime": 1792734845.7796624,
-    "seen": 1792755955.0402238,
-    "ast_hash": "06cc2f5dce822699d8a712bfc2a310cd",
+    "mtime": 1792756449.2025318,
+    "seen": 1792811721.4955688,
+    "ast_hash": "bd59946b1c16e2cb9fb7913b27f87714",
     "semantic_hash": ""
   },
   "src/lib/services/scan-security.ts": {
@@ -4548,9 +4548,9 @@
     "semantic_hash": ""
   },
   "src/lib/validations/billing.ts": {
-    "mtime": 1791998642.8135087,
-    "seen": 1792755955.0402534,
-    "ast_hash": "d59d68493d26b21334d4217008cc51cd",
+    "mtime": 1792811019.975367,
+    "seen": 1792811721.4956238,
+    "ast_hash": "38f35068eff761e359904fc7047f81ab",
     "semantic_hash": ""
   },
   "src/lib/validations/class-attendance.test.ts": {
@@ -4716,15 +4716,15 @@
     "semantic_hash": ""
   },
   "src/lib/validations/laporan-kehadiran.test.ts": {
-    "mtime": 1792734845.7756605,
-    "seen": 1792755955.0402808,
-    "ast_hash": "832a625f683f97d284e23a1de1fc20da",
+    "mtime": 1792756439.8436017,
+    "seen": 1792811721.4956746,
+    "ast_hash": "0b8a4b977ec1e17361d490d5a377d739",
     "semantic_hash": ""
   },
   "src/lib/validations/laporan-kehadiran.ts": {
-    "mtime": 1792734845.7766604,
-    "seen": 1792755955.0402815,
-    "ast_hash": "a0ce4b54994e92c40767eaf8790a68ad",
+    "mtime": 1792756439.842599,
+    "seen": 1792811721.4956765,
+    "ast_hash": "200072baba7a64c90bde821f8c029bf1",
     "semantic_hash": ""
   },
   "src/lib/validations/libur-nasional.json": {
@@ -4734,15 +4734,15 @@
     "semantic_hash": ""
   },
   "src/lib/validations/loan.test.ts": {
-    "mtime": 1791826827.764163,
-    "seen": 1792755955.0402834,
-    "ast_hash": "f8a7b880214d618f1800b8edb5d10712",
+    "mtime": 1792811561.1706781,
+    "seen": 1792811721.49568,
+    "ast_hash": "b05a182167f9622e8f07a8f807c91f56",
     "semantic_hash": ""
   },
   "src/lib/validations/loan.ts": {
-    "mtime": 1791828263.8014882,
-    "seen": 1792755955.0402844,
-    "ast_hash": "d16f95279fca39aa732aa9c94d0efc46",
+    "mtime": 1792811081.8078022,
+    "seen": 1792811721.4956815,
+    "ast_hash": "81dc5bfe1c87eb02c5880290ea89b1ed",
     "semantic_hash": ""
   },
   "src/lib/validations/nilai-akhir.test.ts": {
@@ -5301,6 +5301,30 @@
     "mtime": 1791770956.750467,
     "seen": 1792755955.0403714,
     "ast_hash": "cdb40e0663a1d6b4f886c1937e8aeb35",
+    "semantic_hash": ""
+  },
+  "src/components/operational/csvImportManual.test.ts": {
+    "mtime": 1792762667.0469294,
+    "seen": 1792811721.4950006,
+    "ast_hash": "f730a13a68f5a53e8ea94fae664a47e0",
+    "semantic_hash": ""
+  },
+  "src/components/operational/csvImportManual.ts": {
+    "mtime": 1792762424.6004426,
+    "seen": 1792811721.4950025,
+    "ast_hash": "7a0fe7ea6ea54eb210ab23e382cdb78f",
+    "semantic_hash": ""
+  },
+  "src/lib/validations/operational.test.ts": {
+    "mtime": 1792762078.7881248,
+    "seen": 1792811721.4956863,
+    "ast_hash": "40dcc6aa7b76dba28435bb84dfea8f18",
+    "semantic_hash": ""
+  },
+  "src/lib/validations/operational.ts": {
+    "mtime": 1792762667.0469294,
+    "seen": 1792811721.4956882,
+    "ast_hash": "eade0efeab5b66f92bf232f285c03d6d",
     "semantic_hash": ""
   }
 }
